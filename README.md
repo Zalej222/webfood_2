@@ -1,13 +1,19 @@
-# webfood_2
+# WebFood 🍔🥗
 
-Jednoduchý webový projekt vytvořený v rámci učení HTML, CSS a práce s GitHubem.
+WebFood je jednoduchý responzivní web zaměřený na prezentaci jídel a objednávkového rozhraní.  
+Projekt slouží jako cvičný frontend projekt pro procvičení **HTML, CSS, Flexboxu, Gridu a responzivity**.
 
-## Popis projektu
-Projekt slouží jako cvičení základní struktury webové stránky a stylování pomocí CSS.
+---
 
-## Použité technologie
-- HTML
-- CSS
+## 🔧 Použité technologie
 
-## Autor
-Projekt je vytvořen pro studijní účely.
+- HTML5  
+- CSS3  
+- Google Fonts (Open Sans)  
+- Flexbox & CSS Grid  
+- Responzivní design (media queries)  
+- Mobilní menu bez JavaScriptu (`:target`)
+
+---
+
+## 📱 Funkce
